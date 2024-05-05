@@ -14,18 +14,18 @@
 #define SD_SCLK_PIN 7
 #define SD_CS_PIN   42
 
-#define DEVICE1_POWER_PIN 4
-#define DEVICE2_POWER_PIN 17
+#define DEVICE0_POWER_PIN 18
+#define DEVICE1_POWER_PIN 17
+#define DEVICE2_POWER_PIN 4
 
 #define EXT_I2C_SDA 15
 #define EXT_I2C_SLC 16
 
-#define EXT_SPI_MOSI 2
-#define EXT_SPI_MISO 40
-#define EXT_SPI_SCLK 39
-#define EXT_SPI_CS   1
-
-#define EXT_GPIO_0 41
-#define EXT_GPIO_1 8
+#define EXT_GPIO_1  1
+#define EXT_GPIO_2  2
+#define EXT_GPIO_38 38
+#define EXT_GPIO_39 39
+#define EXT_GPIO_40 40
+#define EXT_GPIO_41 41
 
 #endif
