@@ -7,7 +7,7 @@
 #include <lwip/dns.h>
 #include <lwip/lwip_napt.h>
 
-#include <mqttLogger.h>
+#include <MqttLogger.h>
 
 #include "network_manager.h"
 #include "pins.h"
